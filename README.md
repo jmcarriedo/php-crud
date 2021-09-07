@@ -1,1 +1,1 @@
-This is a CRUD exercise I did utilizing PHP and XAMPP.
+Sample CRUD exercise for PHP. _JocyllKate
